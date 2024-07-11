@@ -7,6 +7,19 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+## How to set up this project into your pc.
+
+- [First clone this repository into your system].
+- [Opne your git bash terminal and write this commond: git clone https://github.com/itsashusing/TaskProject.git].
+- [This will create a folder into your system].
+- [Open folter to your terminal and run these commonds].
+- [php artisan migrate]
+- [php artisan db:seed]
+- [php artisan serve]
+- [Now this commond will run your project to http://127.0.0.1:8000 this port]
+
+- **[Make sure you already open your XAMMP server]**
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
